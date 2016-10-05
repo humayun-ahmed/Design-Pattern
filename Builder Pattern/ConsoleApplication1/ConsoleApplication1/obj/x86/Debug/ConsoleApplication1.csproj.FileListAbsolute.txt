@@ -1,0 +1,13 @@
+D:\Source\Design Pattern\Builder\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Source\Design Pattern\Builder\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Source\Design Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Source\Design Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Source\Design Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\SELISE School Content\Design Pattern\Builder Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\SELISE School Content\Design Pattern\Builder Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+Z:\HUMAYUN\Personal\Cefalo School\Selise Design Pattern\Builder Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+Z:\HUMAYUN\Personal\Cefalo School\Selise Design Pattern\Builder Pattern\Builder\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+Z:\HUMAYUN\Personal\Cefalo School\Classes\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+Z:\HUMAYUN\Personal\Cefalo School\Classes\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
