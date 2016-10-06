@@ -31,15 +31,6 @@ namespace ConsoleApplication2
             var addressList = new Dictionary<string, Address>();
             var addPersonParams = new AddPersonParams(nameList, parentList, addressList);
             Person person = new Person("FirstName", "MiddleName", "LastName");
-
-            person.BirthCountry = addPersonParams.AddressList["BPlace"].Country;
-
-            person.FirstName = addPersonParams.NameList["FName"].Text;
-            person.MiddleName = addPersonParams.NameList["MName"].Text;
-            person.LastName = addPersonParams.NameList["LName"].Text;
-            person.OfficialName = string.Format("{0} {1}", person.FirstName, person.LastName);
-
-
             if (addPersonParams.Nationality == Nationality.Swiss)
             {
                 person.Gurdians.Add(new Person(addPersonParams.NameList["GurdianFName"].Text,

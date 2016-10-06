@@ -1,0 +1,2 @@
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
