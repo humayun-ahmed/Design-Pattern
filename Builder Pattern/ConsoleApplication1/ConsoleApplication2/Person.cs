@@ -18,6 +18,12 @@ namespace ConsoleApplication2
     /// </summary>
     public class Person
     {
+        public Person(string firstName, string middleName, string lastName)
+        {
+            this.FirstName = firstName;
+            this.MiddleName = middleName;
+            this.LastName = LastName;
+        }
         /// <summary>
         /// The _addresses.
         /// </summary>
