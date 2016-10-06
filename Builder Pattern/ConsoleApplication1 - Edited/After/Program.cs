@@ -46,5 +46,18 @@ namespace ConsoleApplication2
             Debug.Print(person.FirstName);
 
         }
+        public void BuildBirthCountry(Person person, AddPersonParams addPersonParams)
+        {
+            person.BirthCountry = addPersonParams.AddressList["BPlace"].Country;
+        }
+
+        public void BuildName(Person person, AddPersonParams addPersonParams)
+        {
+
+            person.FirstName = addPersonParams.NameList["FName"].Text;
+            person.MiddleName = addPersonParams.NameList["MName"].Text;
+            person.LastName = addPersonParams.NameList["LName"].Text;
+            person.OfficialName = string.Format("{0} {1}", person.FirstName, person.LastName);
+        }
     }
 }

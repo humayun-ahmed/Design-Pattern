@@ -18,6 +18,10 @@ namespace ConsoleApplication2
     /// </summary>
     public class Person
     {
+        public Person()
+        {
+            
+        }
         public Person(string firstName, string middleName, string lastName)
         {
             this.FirstName = firstName;

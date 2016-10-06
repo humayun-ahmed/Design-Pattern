@@ -30,7 +30,7 @@ namespace ConsoleApplication2
             var parentList = new Dictionary<string, Parent>();
             var addressList = new Dictionary<string, Address>();
             var addPersonParams = new AddPersonParams(nameList, parentList, addressList);
-            Person person = new Person("FirstName", "MiddleName", "LastName");
+            Person person = new Person();
 
             person.BirthCountry = addPersonParams.AddressList["BPlace"].Country;
 
