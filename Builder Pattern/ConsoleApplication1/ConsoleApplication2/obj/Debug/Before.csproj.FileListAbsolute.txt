@@ -1,0 +1,6 @@
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\obj\Debug\Before.csprojResolveAssemblyReference.cache
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+Z:\HUMAYUN\Personal\Cefalo School\Classes Design Pattern\Git\Builder Pattern\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
